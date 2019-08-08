@@ -5,6 +5,7 @@ updated: {{ date }}
 categories: 
 tags: 
 keywords: 
+thumbnail: 
 ---
 
 
