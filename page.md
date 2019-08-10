@@ -1,20 +1,30 @@
 ---
 title: {{ title }}
+enname: 
 date: {{ date }}
 updated: {{ date }}
 categories: 
 tags: 
 keywords: 
+permalink: 
 thumbnail: 
 ---
 
 
 
+<!--more-->
 
 
 
-
-
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2f798e6b269c8a40f12bef25d7f1876d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
 <div style="height:260px; background-color:rgb(238,240,244); padding:10px;border-radius:10px;">
     <p style="color:#f36c21;font:bold 16px/20px 'kaiTi';">
@@ -29,5 +39,6 @@ thumbnail:
     <p>
       <span style="font:16px/20px 'kaiTi';">欢迎志同道合的朋友一起交流、探讨！</span> 
     </p>
-    <img style="height:auto; width:auto;flot:left;" src="../../image/monkey64.png" /><span style="font:16px/20px 'kaiTi';flot:left;">   monkeyGeek</span>
+    <img style="height:auto; width:auto;flot:left;" src="../../../../image/monkey64.png" /><span style="font:16px/20px 'kaiTi';flot:left;">   monkeyGeek</span>
+
 
